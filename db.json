@@ -1,19 +1,19 @@
 {
     "users":[
         {
-            "Idcliente":1,
+            "id":1,
             "Nombre":"Ricardo",
             "Usuario":"rick12",
             "Contrasena":"Prueba123*" 
         },
         {
-            "Idcliente":2,
+            "id":2,
             "Nombre":"Ana",
             "Usuario":"company",
             "Contrasena":"company"
         },
         {
-            "Idcliente":3,
+            "id":3,
             "Nombre":"Sofia",
             "Usuario":"Sof123*",
             "Contrasena":"Prueba123*"
